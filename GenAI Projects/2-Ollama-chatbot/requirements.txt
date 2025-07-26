@@ -1,1 +1,23 @@
+langchain
+langchain_community
+openai
+langchain
+python-dotenv
+streamlit
+ipykernel
+langchain_core
+fastapi
+uvicorn
+langchain-openai
+langchain_groq
+langserve
+chromadb
+langchain_huggingface
+duckdb
+langchain_chroma
+langchain-text-splitters
+wikipedia
+faiss-cpu
+sentence_transformers
+pandas
 
